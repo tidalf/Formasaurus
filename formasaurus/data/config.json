@@ -12,6 +12,7 @@
             {"short": "V", "full": "display options"},
             {"short": "N", "full": "navigation"},
             {"short": "C", "full": "captcha"},
+            {"short": "G", "full": "change password"},
             {"short": "o", "full": "other"},
             {"short": "-", "full": "SKIP THIS FORM"},
             {"short": "X", "full": "NOT ANNOTATED"}
@@ -30,6 +31,7 @@
         "types": [
             {"short": "us", "full": "username"},
             {"short": "p1", "full": "password"},
+            {"short": "p0", "full": "old password"},
             {"short": "p2", "full": "password confirmation"},
             {"short": "e1", "full": "email"},
             {"short": "e2", "full": "email confirmation"},

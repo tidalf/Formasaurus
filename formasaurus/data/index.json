@@ -22108,5 +22108,18 @@
                 "task_content": "OT"
             }
         ]
+    },
+   "html/3suisses.fr-1.html": {
+        "url": "https://www.3suisses.fr/account_modify_id.html",
+        "forms": [
+            "G"
+        ],
+        "visible_html_fields": [
+            {
+                "old_password": "P0",
+                "password": "P1",
+                "password confirmation": "P2"
+            }
+        ]
     }
 }
